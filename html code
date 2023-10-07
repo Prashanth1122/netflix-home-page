@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snopred - Homepage</title>
+    <link rel="stylesheet" href="netflix.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png" height="88" alt="Snopred Logo">
+            </div>
+            <div class="nav-links">
+                <a href="#">Home</a>
+                <a href="#">TV Shows</a>
+                <a href="#">Movies</a>
+                <a href="#">My List</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Snopred</h1>
+            <p>Stream your favorite movies and TV shows.</p>
+            <button class="cta-button">Get Started</button>
+        </div>
+    </section>
+
+    <section class="featured">
+        <h2>Featured</h2>
+        <div class="carousel">
+            <div class="carousel-item">
+                <img src="https://static.toiimg.com/photo/101561141.cms" height="100" alt="SALAAR">
+                <h3>SALAAR</h3>
+            </div>
+            <div class="carousel-item">
+                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/8978/768978-h" height="100" alt="Mahabharatam">
+                <h3>MAHABHARATAM</h3>
+            </div>
+            <div class="carousel-item">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZlzCf6fCG0vZjKONd8PsUq5rDEeNUwa-JzwAOAGPZA&s" height="100" alt="DEVARA">
+                <h3>DHEVARA</h3>
+            </div>
+          
+        </div>
+    
+    </section>
+
+    <footer>
+        <p>&copy; 2023 netflix</p>
+    </footer>
+</body>
+</html>
